@@ -77,7 +77,7 @@ This is a curated list of open source tools for operating a company. Please feel
 
 ## Editor
 
-- 
+- [GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext)
 
 ## Free Resources
 
