@@ -31,10 +31,27 @@ This is a curated list of open source tools for operating a company. Please feel
 - https://github.com/wekan/wekan - the Open Source kanban (built with Meteor).
 - https://www.redmine.org/ - a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
-## Development Tool
+## Developer Tools
 
 - https://gitlab.com/
 - [GitHub - theonedev/onedev: Self-hosted Git Server with CI/CD and Kanban](https://github.com/theonedev/onedev)
+- [GitHub - nats-io/nats-server: High-Performance server for NATS.io, the cloud and edge native messaging system.](https://github.com/nats-io/nats-server)
+- [RabbitMQ · GitHub](https://github.com/rabbitmq)
+- https://jupyter.org/
+- https://flink.apache.org/
+- 
+
+## Analytics
+
+- [GitHub - metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
+- [GitHub - getredash/redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.](https://github.com/getredash/redash)
+- [GitHub - apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform](https://github.com/apache/superset)
+
+## Database
+
+- [GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine](https://github.com/elastic/elasticsearch)
+- https://opensearch.org/
+- 
 
 ## DevOps
 
@@ -70,10 +87,19 @@ This is a curated list of open source tools for operating a company. Please feel
 ## ERP
 
 - [GitHub - odoo/odoo: Odoo. Open Source Apps To Grow Your Business.](https://github.com/odoo/odoo)
+- [GitHub - invoiceninja/invoiceninja: Invoices, Expenses and Tasks built with Laravel and Flutter](https://github.com/invoiceninja/invoiceninja)
 
 ## HR
 
 - TBD
+
+## E-commence
+
+- [GitHub - magento/magento2: delivers basic eCommerce capabilities to build a unique online store from the ground up.](https://github.com/magento/magento2)
+- [GitHub - opencart/opencart: A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.](https://github.com/opencart/opencart)
+- [GitHub - thirtybees/thirtybees: thirty bees - e-commerce that works for you](https://github.com/thirtybees/thirtybees)
+- [GitHub - woocommerce/woocommerce: A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.](https://github.com/woocommerce/woocommerce)
+- [GitHub - PrestaShop/PrestaShop: PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.](https://github.com/PrestaShop/PrestaShop)
 
 ## Editor
 
