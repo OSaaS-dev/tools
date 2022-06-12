@@ -33,8 +33,8 @@ This is a curated list of open source tools for operating a company. Please feel
 
 ## Development Tool
 
-- gitlab
-- https://github.com/theonedev/onedev - Self-hosted Git Server with CI/CD and Kanban
+- https://gitlab.com/
+- [GitHub - theonedev/onedev: Self-hosted Git Server with CI/CD and Kanban](https://github.com/theonedev/onedev)
 
 ## DevOps
 
