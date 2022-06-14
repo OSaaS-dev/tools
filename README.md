@@ -57,7 +57,6 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine](https://github.com/elastic/elasticsearch)
 - https://opensearch.org/
-- 
 
 ## DevOps
 
@@ -78,6 +77,7 @@ This is a curated list of open source tools for operating a company. Please feel
 ## Productivity
 
 - https://github.com/johannesjo/super-productivity - an advanced todo list app with integrated Timeboxing and time tracking capabilities.
+- [GitHub - monicahq/monica: Personal CRM. Remember everything about your friends, family and business relationships.](https://github.com/monicahq/monica)
 
 ## Tool
 
@@ -100,6 +100,12 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - odoo/odoo: Odoo. Open Source Apps To Grow Your Business.](https://github.com/odoo/odoo)
 - [GitHub - salesagility/SuiteCRM: SuiteCRM - Open source CRM for the world](https://github.com/salesagility/SuiteCRM)
+- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext)
+- [GitHub - Dolibarr/dolibarr: Dolibarr ERP CRM is a modern software package to manage your company or foundation activity.](https://github.com/Dolibarr/dolibarr)
+
+## Finance
+
+- [GitHub - akaunting/akaunting: Free and Online Accounting Software](https://github.com/akaunting/akaunting)
 
 ### HR
 
