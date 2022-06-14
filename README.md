@@ -1,4 +1,4 @@
-# Open Tool
+# OpenSource-as-a-Service - Tools
 
 This is a curated list of open source tools for operating a company. Please feel free to contribute any items that should be included. Items are generally added at the top of each section so that more fresh items are featured more prominently.
 
@@ -33,13 +33,19 @@ This is a curated list of open source tools for operating a company. Please feel
 
 ## Developer Tools
 
-- https://gitlab.com/
+- [GitLab](https://gitlab.com/)
 - [GitHub - theonedev/onedev: Self-hosted Git Server with CI/CD and Kanban](https://github.com/theonedev/onedev)
 - [GitHub - nats-io/nats-server: High-Performance server for NATS.io, the cloud and edge native messaging system.](https://github.com/nats-io/nats-server)
 - [RabbitMQ · GitHub](https://github.com/rabbitmq)
 - https://jupyter.org/
 - https://flink.apache.org/
-- 
+
+### Lowcode
+
+- [GitHub - appsmithorg/appsmith: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)
+- [GitHub - Budibase/budibase: Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀](https://github.com/Budibase/budibase)
+- [GitHub - node-red/node-red: Low-code programming for event-driven applications](https://github.com/node-red/node-red)
+- [GitHub - ToolJet/ToolJet: Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
 
 ## Analytics
 
@@ -78,22 +84,28 @@ This is a curated list of open source tools for operating a company. Please feel
 - survey - TBD
 - [GitHub - jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
 - [GitHub - plantuml/plantuml: Generate diagrams from textual description](https://github.com/plantuml/plantuml)
+- [GitHub - vanila-io/wireflow: Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
 - [GitHub - laurent22/joplin: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
 * [GitHub - syncthing/syncthing: Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 * [GitHub - nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
 * [GitHub - owncloud/core: ownCloud web server core (Files, DAV, etc.)](https://github.com/owncloud/core)
 * [GitHub - TryGhost/Ghost: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.](https://github.com/tryghost/ghost)
 
-## ERP
+## Design
+
+- [GitHub - penpot/penpot: Penpot - The Open-Source design &amp; prototyping platform](https://github.com/penpot/penpot)
+- [GitHub - evolus/pencil: The Pencil Project&#39;s unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil)
+
+## ERP&CRM
 
 - [GitHub - odoo/odoo: Odoo. Open Source Apps To Grow Your Business.](https://github.com/odoo/odoo)
+- [GitHub - salesagility/SuiteCRM: SuiteCRM - Open source CRM for the world](https://github.com/salesagility/SuiteCRM)
+
+### HR
+
 - [GitHub - invoiceninja/invoiceninja: Invoices, Expenses and Tasks built with Laravel and Flutter](https://github.com/invoiceninja/invoiceninja)
 
-## HR
-
-- TBD
-
-## E-commence
+### E-commence
 
 - [GitHub - magento/magento2: delivers basic eCommerce capabilities to build a unique online store from the ground up.](https://github.com/magento/magento2)
 - [GitHub - opencart/opencart: A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.](https://github.com/opencart/opencart)
@@ -109,3 +121,4 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - https://github.com/255kb/stack-on-a-budget - A collection of services with great free tiers for developers on a budget.
+- [Made for elementary OS](https://appcenter.elementary.io/)
