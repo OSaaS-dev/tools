@@ -46,7 +46,7 @@ This is a curated list of open source tools for operating a company. Please feel
 - [GitHub - Budibase/budibase: Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀](https://github.com/Budibase/budibase)
 - [GitHub - node-red/node-red: Low-code programming for event-driven applications](https://github.com/node-red/node-red)
 - [GitHub - ToolJet/ToolJet: Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
-
+- [Github - MrXujiang/h5-Dooring: H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.](https://github.com/MrXujiang/h5-Dooring)
 ## Analytics
 
 - [GitHub - metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
@@ -78,6 +78,7 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - https://github.com/johannesjo/super-productivity - an advanced todo list app with integrated Timeboxing and time tracking capabilities.
 - [GitHub - monicahq/monica: Personal CRM. Remember everything about your friends, family and business relationships.](https://github.com/monicahq/monica)
+- [Nocodb - The Open Source Airtable Alternative](https://github.com/nocodb/nocodb) - Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 
 ## Tool
 
@@ -90,6 +91,11 @@ This is a curated list of open source tools for operating a company. Please feel
 * [GitHub - nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
 * [GitHub - owncloud/core: ownCloud web server core (Files, DAV, etc.)](https://github.com/owncloud/core)
 * [GitHub - TryGhost/Ghost: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.](https://github.com/tryghost/ghost)
+* [Github - webhooksite/webhook.site: Easily test HTTP webhooks with this handy tool that displays requests instantly.](https://github.com/webhooksite/webhook.site)
+
+## Workflow Automation
+* [Github - n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
+* [Github - huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
 
 ## Design
 
