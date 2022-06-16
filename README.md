@@ -20,8 +20,8 @@ This is a curated list of open source tools for operating a company. Please feel
 
 ## Blogs and Forums
 
-- https://github.com/discourse/discourse - A platform for community discussion. Free, open, simple.
-- https://github.com/tryghost/ghost - 
+- [GitHub - discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse)
+- [GitHub - TryGhost/Ghost: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.](https://github.com/tryghost/ghost)
 
 ## Project Management
 
@@ -89,7 +89,6 @@ This is a curated list of open source tools for operating a company. Please feel
 * [GitHub - syncthing/syncthing: Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 * [GitHub - nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
 * [GitHub - owncloud/core: ownCloud web server core (Files, DAV, etc.)](https://github.com/owncloud/core)
-* [GitHub - TryGhost/Ghost: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.](https://github.com/tryghost/ghost)
 
 ## Design
 
@@ -122,6 +121,14 @@ This is a curated list of open source tools for operating a company. Please feel
 ## Editor
 
 - [GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext)
+- [GitHub - coder/code-server: VS Code in the browser](https://github.com/coder/code-server)
+- [GitHub - SpaceVim/SpaceVim: A community-driven modular vim/neovim distribution - The ultimate vimrc](https://github.com/SpaceVim/SpaceVim)
+- [GitHub - eclipse-theia/theia: Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript.](https://github.com/eclipse-theia/theia)
+- [GitHub - VSCodium/vscodium: binary releases of VS Code without MS branding/telemetry/licensing](https://github.com/VSCodium/vscodium)
+- [GitHub - JetBrains/intellij-community: IntelliJ IDEA Community Edition &amp; IntelliJ Platform](https://github.com/JetBrains/intellij-community)
+- [GitHub - arduino/Arduino: Arduino IDE 1.x](https://github.com/arduino/Arduino)
+- [GitHub - codesandbox/codesandbox-client: An online IDE for rapid web development](https://github.com/codesandbox/codesandbox-client)
+- [GitHub - gitpod-io/gitpod: Gitpod automates the provisioning of ready-to-code development environments.](https://github.com/gitpod-io/gitpod)
 
 ## Free Resources
 
