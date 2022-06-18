@@ -6,7 +6,7 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.](https://github.com/AppFlowy-IO/AppFlowy)
 - [GitHub - outline/outline: The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.](https://github.com/outline/outline)
-- [GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap](https://github.com/logseq/logseq)
+- [GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge mygement and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap](https://github.com/logseq/logseq)
 - [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/requarks/wiki)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [GitHub - Chocobozzz/PeerTube: ActivityPub-federated video streaming platform using P2P directly in your web browser](https://github.com/Chocobozzz/PeerTube)
@@ -59,6 +59,7 @@ This is a curated list of open source tools for operating a company. Please feel
 - [GitHub - metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 - [GitHub - getredash/redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.](https://github.com/getredash/redash)
 - [GitHub - apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform](https://github.com/apache/superset)
+- [Github - PostHog/posthog: postHog provides open-source product analytics that you can self-host.](https://github.com/PostHog/posthog)
 
 ## Database
 
