@@ -6,7 +6,7 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.](https://github.com/AppFlowy-IO/AppFlowy)
 - [GitHub - outline/outline: The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.](https://github.com/outline/outline)
-- [GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap](https://github.com/logseq/logseq)
+- [GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge mygement and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap](https://github.com/logseq/logseq)
 - [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/requarks/wiki)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [GitHub - Chocobozzz/PeerTube: ActivityPub-federated video streaming platform using P2P directly in your web browser](https://github.com/Chocobozzz/PeerTube)
@@ -53,12 +53,13 @@ This is a curated list of open source tools for operating a company. Please feel
 - [GitHub - Budibase/budibase: Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀](https://github.com/Budibase/budibase)
 - [GitHub - node-red/node-red: Low-code programming for event-driven applications](https://github.com/node-red/node-red)
 - [GitHub - ToolJet/ToolJet: Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
-
+- [Github - MrXujiang/h5-Dooring: H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.](https://github.com/MrXujiang/h5-Dooring)
 ## Analytics
 
 - [GitHub - metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 - [GitHub - getredash/redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.](https://github.com/getredash/redash)
 - [GitHub - apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform](https://github.com/apache/superset)
+- [Github - PostHog/posthog: postHog provides open-source product analytics that you can self-host.](https://github.com/PostHog/posthog)
 
 ## Database
 
@@ -85,6 +86,7 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - johannesjo/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
 - [GitHub - monicahq/monica: Personal CRM. Remember everything about your friends, family and business relationships.](https://github.com/monicahq/monica)
+- [Nocodb - The Open Source Airtable Alternative](https://github.com/nocodb/nocodb) - Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 
 ## Tool
 
@@ -96,7 +98,13 @@ This is a curated list of open source tools for operating a company. Please feel
 * [GitHub - syncthing/syncthing: Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 * [GitHub - nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
 * [GitHub - owncloud/core: ownCloud web server core (Files, DAV, etc.)](https://github.com/owncloud/core)
+* [GitHub - TryGhost/Ghost: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.](https://github.com/tryghost/ghost)
+* [Github - webhooksite/webhook.site: Easily test HTTP webhooks with this handy tool that displays requests instantly.](https://github.com/webhooksite/webhook.site)
 * [GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
+
+## Workflow Automation
+* [Github - n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
+* [Github - huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
 
 ## Design
 
