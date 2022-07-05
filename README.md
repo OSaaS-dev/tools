@@ -99,6 +99,8 @@ This is a curated list of open source tools for operating a company. Please feel
 
 - [GitHub - johannesjo/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
 - [GitHub - monicahq/monica: Personal CRM. Remember everything about your friends, family and business relationships.](https://github.com/monicahq/monica)
+- [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+- [GitHub - impress/impress.js: a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.](https://github.com/impress/impress.js)
 
 ## Tool
 
