@@ -47,7 +47,6 @@ This is a curated list of open source tools for operating a company. Please feel
 - https://flink.apache.org/
 - [GitHub - strapi/strapi: 🚀 Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
 - [GitHub - hoppscotch/hoppscotch: 👽 Open source API development ecosystem - https://hoppscotch.io](https://github.com/hoppscotch/hoppscotch)
-
 - chaos
 
 ### Lowcode
