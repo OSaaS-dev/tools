@@ -160,6 +160,9 @@ This is a curated list of open source tools for operating a company. Please feel
 - [GitHub - arduino/Arduino: Arduino IDE 1.x](https://github.com/arduino/Arduino)
 - [GitHub - codesandbox/codesandbox-client: An online IDE for rapid web development](https://github.com/codesandbox/codesandbox-client)
 - [GitHub - gitpod-io/gitpod: Gitpod automates the provisioning of ready-to-code development environments.](https://github.com/gitpod-io/gitpod)
+- [GitHub - ianstormtaylor/slate: A completely customizable framework for building rich text editors. (Currently in beta.)](https://github.com/ianstormtaylor/slate)
+- [GitHub - NickeManarin/ScreenToGif: ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.](https://github.com/NickeManarin/ScreenToGif)
+- [GitHub - benweet/stackedit: In-browser Markdown editor](https://github.com/benweet/stackedit)
 
 ## Cybersecurity
 
